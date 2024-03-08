@@ -1,0 +1,20 @@
+{
+  "name": "email-c-validator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.1",
+    "latest-c-validator-js": "1.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aadycoral/email-c-validator.git"
+  }
+}
